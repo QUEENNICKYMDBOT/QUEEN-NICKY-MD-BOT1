@@ -4,8 +4,8 @@
 // "CONTACT ON WHATSAPP": "94715264791"
 
 
-require("../../module-alias.js");
-require("../main/config/index.js");
+require("../module-alias.js");
+require("../configs/index.js");
 const pino = require("pino");
 const fs = require("fs");
 const chalk = require("chalk");
