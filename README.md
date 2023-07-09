@@ -16,3 +16,10 @@
 <img src="https://telegra.ph/file/b4eeed71b4a5492f0afbb.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
+<p align="center">
+
+<a href="#"><img title="QUEEN NICKY" src="https://img.shields.io/badge/QUEEN-NICKY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+
