@@ -21,5 +21,7 @@
 <a href="#"><img title="QUEEN NICKY" src="https://img.shields.io/badge/QUEEN-NICKY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
+<p align="center">𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙲𝙺𝚈ᵀᴹ <br>| © | Reserved  </br> 
 
+</p>
 
