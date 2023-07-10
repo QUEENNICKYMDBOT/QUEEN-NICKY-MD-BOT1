@@ -18,6 +18,8 @@
 </p>
 <p align="center">
 
+             ## [![BIXBY](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=5D0F99&lines=welcome+to+QUEEN-NICKY+BOT; )](https://bit.ly/2VM4lxF)     
+
 <a href="#"><img title="QUEEN NICKY" src="https://img.shields.io/badge/QUEEN-NICKY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
