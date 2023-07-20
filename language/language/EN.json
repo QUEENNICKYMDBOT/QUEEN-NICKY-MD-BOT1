@@ -1,0 +1,35 @@
+{
+    "QUEEN_NICKY_MD": true,
+    "LANGUAGE": "English",
+    "LANGCODE": "EN",
+    "AUTHOR": "KIND ALPHA",
+    "STRINGS": {
+        "bot_modules": {
+            "version": "V1 BETA TEST",
+            "ownerCMDonly": "*⚠️ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴏɴʟʏ ꜰᴏʀ ʙᴏᴛ ᴏᴡɴᴇʀ*",
+            "grpCMDonly": "*⚠️ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴏɴʟʏ ꜰᴏʀ ɢʀᴏᴜᴘ",
+            "grpNot_Admin": "*⚠️ɪ'ᴍ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ ʜᴇʀᴇ*",
+            "grpNot_Admin": "*⚠️*ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ ʜᴇʀᴇ*",
+        },
+        "YT_downloader": {
+            "need_YTlink": "*⚠️ᴘʟᴇᴀꜱᴇ ɢɪᴠᴇ ᴀ ɴᴇᴇᴅ ʏᴛ ʟɪɴᴋ ᴏʀ ɴᴀᴍᴇ*",
+            "fileSizeBig": "*FILE SIZE SO BIG!*",
+            "song_example": "*⚠️ ᴇxᴀᴍᴘʟᴇ: .ꜱᴏɴɢ ʏᴏᴜʀ ꜱᴏɴɢ ɴᴀᴍᴇ*",
+            "video_example": "*⚠️ ᴇxᴀᴍᴘʟᴇ: .ᴠɪᴅᴇᴏ ʏᴏᴜʀ ᴠɪᴅᴇᴏ ɴᴀᴍᴇ*",
+        },
+        "grp_manager": {
+           "group_MUTED": "*🔇ᴛʜɪꜱ ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴡᴀꜱ ᴍᴜᴛᴇᴅ!*", 
+           "group_unmuted": "*🔊ᴛʜɪꜱ ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴡᴀꜱ ᴜɴᴍɪᴛᴇᴅ!*",
+           "grouplink_RESET": "♻️ *{}ɪɴᴠɪᴛᴇ ʟɪɴᴋ ʀᴇꜱᴇᴛ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ*",
+           "needuser": "*⚠️ᴘʟᴇᴀꜱᴇ ᴍᴇɴᴛɪᴏɴ ᴀ ᴜꜱᴇʀ*",
+        },
+        "YTsearch": {
+            "needTEXT": "*⚠️ᴘʟᴇᴀꜱᴇ ɢɪᴠᴇ ᴍᴇ ᴀ ᴡʜᴀᴛ ᴡᴀɴᴛ ᴛᴏ ʏᴏᴜ ꜱᴇᴀʀᴄʜ*",
+            "NOT_FOUND": "*⛔ꜱᴏʀʀʏ!! ɪ ᴄᴀɴᴛ'ᴛ ꜰɪɴᴅ ᴛʜᴀᴛ*",
+        },
+        "bot_settings": {
+            "already_Setted": "*❗ᴛʜɪꜱ ꜱᴇᴛᴛɪɴɢ ɪꜱ ᴀʟʀᴇᴀᴅʏ ꜱᴇᴛᴛᴇᴅ*",
+            "SETTING_CHANGED": "*ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴄʜᴀɴɢᴇᴅ ꜱᴇᴛᴛɪɴɢ*",
+      }
+    }
+ }
